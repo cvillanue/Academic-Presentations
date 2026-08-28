@@ -1,2 +1,1 @@
-# Sperners_Lemma
-PP Presentaion on a combinatorial analog of the famous Brouwer fixed point theorem. 
+These presentations were developed as part of my previous academic, instructional, and technical work.
